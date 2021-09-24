@@ -26,4 +26,4 @@ Lorem ipsum dolor sit amet
 - Bootstrap <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-128.png" width="30px" height="30px"/>
 
 
-[**My Portfolio At**](https://www.mocktarissa.com)
+[**My Portfolio Here**](https://www.mocktarissa.com)
