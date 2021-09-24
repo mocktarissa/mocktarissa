@@ -18,6 +18,7 @@ Lorem ipsum dolor sit amet
 - React Native <img src="https://img.icons8.com/material-outlined/24/000000/react-native.png" width="30px" height="30px" />
 - Node JS <img src="https://img.icons8.com/windows/32/000000/node-js.png" width="30px" height="30px"/>
 - Redux <img src="https://img.icons8.com/material-sharp/24/000000/redux.png" width="30px" height="30px"/>
+- Graph Ql <img src="https://img.icons8.com/color/48/000000/graphql.png" width="30px" height="30px"/>
 - Rails <img src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png" width="30px" height="30px"/>
 - Express <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png" width="50px" height="30px"/>
 - Laravel <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-128.png" width="30px" height="30px" />
