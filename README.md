@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mocktar. Full Stack developer currently wroking at [Neo Software and Cloud Solutions LLC](https://www.neosoftwarellc.com)
+### Hi there 👋, I'm Mocktar a Full Stack developer currently working at [Neo Software and Cloud Solutions LLC](https://www.neosoftwarellc.com)
 ### You can find me on:
  - [LinkedIn](https://www.linkedin.com/in/mocktarissa/)
  - [Medium](https://medium.com/@mocktarissa)
